@@ -10,7 +10,7 @@ function compute()
     //Create Interest text
     document.getElementById("result").innerHTML = "Interest : If you despoit <mark>" + principal + "</mark>,<br/>" +
         "at an interest rate of <mark> + rate + </mark>,<br/> +
-        "YOu will receive an amount of <mark>" + interest + "</mark>,<br/>" +
-        " in the year <mark>" yearInTheFuture + "</mark>";
+        "You will receive an amount of <mark>" + interest + "</mark>,<br/>" +
+        "in the year <mark>" yearInTheFuture + "</mark>";
 }
         
